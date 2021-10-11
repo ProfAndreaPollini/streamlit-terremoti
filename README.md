@@ -1,0 +1,1 @@
+applicazione per la visualizzazione dei dati dei terremoti recuperati da USGS mediante streamlie e folium
